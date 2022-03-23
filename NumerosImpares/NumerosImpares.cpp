@@ -6,7 +6,7 @@ int main(){
 
     int x, n;
 
-    cout << "Ingrese un numero" << endl;
+    cout << "Ingrese un numero:" << endl;
     cin >> n;
 
     cout << "Los numeros impares son:" << endl;
